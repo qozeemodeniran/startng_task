@@ -1,0 +1,45 @@
+- Register
+*** 3 levels,
+++ Medical team(staff)
+++ Super admin(md)
+++ Patients
+
+--- Access Control Levels(ACL)
+
+- Login
+-Logout
+- Reset pwd
+- Dashboard
+*** Loged in as (role), name and office.
+- Push to github
+- Host it
+*********************
+
+Filesytem.
+**********************
+
+Variables
+Array
+Operations
+Loops
+Conditionals
+**********************
+
+- Hospital : SNH(name)
+
+
+OOP
+
+Procedural
+** Img
+** js
+** html
+** css
+** php
+
+SEO
+
+
+
+
+
